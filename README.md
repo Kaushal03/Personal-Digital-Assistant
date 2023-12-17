@@ -18,6 +18,7 @@ One of the main advantages of voice searches is their rapidity. In fact, voice i
 ![pywhatkit](https://img.shields.io/badge/-pywhatkit-4285F4?logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8D3B?logo=python&logoColor=white)
 
+### ARCHITECTURE DIAGRAM
 ![image](https://github.com/Kaushal03/Personal-Digital-Assistant/assets/67416597/5016120e-7a4a-46b8-97e3-e21107625d92)
 ![image](https://github.com/Kaushal03/Personal-Digital-Assistant/assets/67416597/033daf77-5245-45b5-ba7c-ece492eeef3b)
 
