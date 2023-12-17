@@ -26,7 +26,7 @@ One of the main advantages of voice searches is their rapidity. In fact, voice i
 Personal Digital Assistant helpful for normal people and blind/visually impaired by having the natural dialogue with the system. The modules of this system makes it flexible , easy to use and easy to add additional features without disturbing current system functionality. In the PDA system we have built the Speech Recognition module, Speech To Text, Text To Speech News Feed module, Mathematical module, etc.
 
 ### FUTURE SCOPE
-•	Home Automation using microcontrollers can be included in the project.
-•	Invoice recognition the external or background voice can be eliminated.
+-> Home Automation using microcontrollers can be included in the project.
+-> Invoice recognition the external or background voice can be eliminated.
 
 
